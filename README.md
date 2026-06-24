@@ -1,19 +1,16 @@
 ## Hi there 👋
 
-I am a free software advocate, developer, and QA contributor dedicated to ensuring software freedom, clear licensing, and building reliable directories for a fully libre ecosystem.
+I have submitted **over 1,000 GitHub issues** across various repositories to improve code quality, licensing clarity, and software freedom. I am a free software advocate, developer, and FOSS QA contributor dedicated to building a fully libre ecosystem.
 
-* 🔭 **I’m currently working on:**
-* Maintaining and curating the **Free Software Directory (FSD)** (contributing consistently since February 2015).
-* Auditing the broader ecosystem—I have submitted **over 1,000 GitHub issues** across various repositories to improve code quality, licensing clarity, and software freedom.
-
+* 🔭 **I’m currently working on:** Maintaining, auditing, and curating the **Free Software Directory (FSD)** (contributing consistently since February 2015).
 * 📜 **Core Philosophy:** Strictly focused on the health, transparency, and copyleft integrity of the free software ecosystem.
 * 🛠️ **Technical Focus & Interests:**
-* **CLI over GUI:** Optimizing tools to be deeply configurable and automatable via the command line rather than forcing reliance on a graphical interface.
+* **The Command Line:** Optimizing tools to be deeply configurable and scriptable rather than forcing reliance on a graphical interface (GUI).
 * **Automation:** Writing robust Bash scripts to streamline system configurations, directory data processing, and repetitive workflows.
 
 * 👯 **I’m looking to collaborate on:**
-* Improving command-line interfaces (CLIs) to make applications more developer-friendly and scriptable.
-* Configuration automation and infrastructure-as-code for libre projects.
+* Transforming GUI-only apps into developer-friendly CLI utilities.
+* Building configuration automation scripts and infrastructure-as-code for libre projects.
 * High-volume issue triaging, license auditing, and FSD curation.
 
 * 💬 **Ask me about:** How to fully migrate to a 100% libre GNU/Linux distribution.
