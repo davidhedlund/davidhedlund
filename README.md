@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I have submitted **over 1,000 GitHub issues** across various repositories to improve code quality, licensing clarity, and software freedom. I am a free software advocate, developer, and FOSS QA contributor dedicated to building a fully libre ecosystem.
+As a contributor to the Free Software Directory since 2015, my focus is on the health of the libre ecosystem. This has involved auditing various upstream projects and submitting **[1,000+ GitHub issues](https://github.com/issues/created?q=is%3Aissue%20archived%3Afalse%20author%3A%40me%20sort%3Aupdated-desc)** focused on licensing clarity, compliance, and bug reporting.
 
-* 🔭 **I’m currently working on:** Maintaining, auditing, and curating the **Free Software Directory (FSD)** (contributing consistently since February 2015).
+* 🔭 **I’m currently working on:** Scaling up FSD automation, expanding directory curation, and continuing upstream license compliance audits.
 * 📜 **Core Philosophy:** Strictly focused on the health, transparency, and copyleft integrity of the free software ecosystem.
 * 🛠️ **Technical Focus & Interests:**
 * **The Command Line:** Optimizing tools to be deeply configurable and scriptable rather than forcing reliance on a graphical interface (GUI).
