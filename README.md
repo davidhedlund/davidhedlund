@@ -8,8 +8,10 @@ As a contributor to the Free Software Directory since 2015 with [13,000+ edits](
 * **The Command Line:** Optimizing tools to be deeply configurable and scriptable rather than forcing reliance on a graphical interface (GUI).
 * **Automation:** Writing robust Bash scripts to streamline system configurations, directory data processing, and repetitive workflows.
 
+I aim for 100% script-configurable systems—and if an application lacks full scripting support, I file an upstream issue to get it fixed.
+
 * 👯 **I’m looking to collaborate on:**
-* Transforming GUI-only apps into developer-friendly CLI utilities.
+* Transforming GUI-only apps into developer-friendly CLI utilities, and vice versa.
 * Building configuration automation scripts and infrastructure-as-code for libre projects.
 * High-volume issue triaging, license auditing, and FSD curation.
 
