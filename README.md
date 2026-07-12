@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-As a contributor to the Free Software Directory since 2015 with [13,000+ edits](https://directory.fsf.org/wiki/Special:Contributions/David_Hedlund), my focus is on the health of the libre ecosystem. Since 2014, this dedication has driven me to audit various upstream projects and submit [1,200+ GitHub issues](https://github.com/issues/created?q=is%3Aissue%20author%3Adavidhedlund%20sort%3Aupdated-desc) focused on licensing clarity, compliance, and bug reporting.
+As a contributor to the Free Software Directory since 2015 with [13,000+ edits](https://directory.fsf.org/wiki/Special:Contributions/David_Hedlund), my focus is on the health of the libre ecosystem. Since 2014, this dedication has driven me to audit various upstream projects and submit [1,200+ GitHub issues](https://github.com/issues/created?q=is%3Aissue%20author%3Adavidhedlund%20sort%3Aupdated-desc) focused on licensing clarity, legal compliance, bug reporting, and CLI-first automation—the practice of ensuring software can be fully configured, managed, and audited exclusively through command-line interfaces to enable complete system reproducibility.
 
 * 🔭 **I’m currently working on:** Scaling up FSD automation, expanding directory curation, and continuing upstream license compliance audits.
 * 📜 **Core Philosophy:** Strictly focused on the health, transparency, and copyleft integrity of the free software ecosystem.
