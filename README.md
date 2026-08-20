@@ -1,4 +1,4 @@
-## Hi there 👋
+## Free software ecosystem activism
 
 As a contributor to the Free Software Directory since 2015 with [13,000+ edits](https://directory.fsf.org/wiki/Special:Contributions/David_Hedlund), my focus is on the health of the libre ecosystem. Since 2014, this dedication has driven me to audit various upstream projects and submit [1,200+ GitHub issues](https://github.com/issues/created?q=is%3Aissue%20author%3Adavidhedlund%20sort%3Aupdated-desc) across various software. These issues are primarily focused on licensing clarity, legal compliance, bug reporting, and UX design—including improved GUI and CLI-first automation. This practice ensures software can be fully configured, managed, and audited exclusively through non-interactive command-line interfaces utilizing arguments and flags, enabling complete system reproducibility, especially for mandatory installation steps.
 
