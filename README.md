@@ -4,7 +4,7 @@ I am a Bureaucrat on the Free Software Directory. As a long-time contributor the
 
 ## Core expertise
 
-My core expertise is in free software evaluation and categorization rather than building software, fixing bugs directly, or submitting code. I focus instead on contributing content to trackers like bug reports and feature requests, occasionally providing project documentation, and ensuring software is distributed across various high-traffic lists.
+My core expertise is in free software evaluation and categorization rather than building software, fixing bugs directly, or submitting code. Instead, my contributions focus on submitting content to trackers like bug reports and feature requests, occasionally providing pull requests for documentation and configuration files, adding licenses and license headers, and ensuring software is distributed across various high-traffic lists.
 
 My issue submissions are primarily focused on licensing clarity, legal compliance, bug reporting, and UX design—including improved GUI and CLI-first automation. Additionally, I focus on the improvement of configuration files to make software much easier to manage via the command line. This practice ensures software can be fully configured, managed, and audited exclusively through non-interactive command-line interfaces utilizing arguments and flags, enabling complete system reproducibility, especially for mandatory installation steps.
 
