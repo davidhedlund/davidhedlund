@@ -10,9 +10,9 @@ My issue submissions are primarily focused on licensing clarity, legal complianc
 
 ## Why so many issue reports?
 
-I recognize that the volume of my issue reports can sometimes seem overwhelming on a project's tracker. Because I monitor a vast number of projects to help [maintain libre ecosystem](#free-software-ecosystem-activism) health, I am, unfortunately, unable to submit pull requests for the vast majority of them, particularly for complex code changes. Overall, however, the outcome has been quite positive; many developers have generously spent significant time fixing the issues I submit, and I am very grateful for their efforts and collaboration.
+I recognize that the volume of my issue reports can sometimes seem overwhelming on a project's tracker. Because I monitor a vast number of projects to help [maintain libre ecosystem](#free-software-ecosystem-activism) health, I am, unfortunately, unable to submit pull requests for the vast majority of them, particularly for complex code changes.
 
-Given my limited programming background, I prioritize simple fixes that deliver the maximum big-picture benefit across the many applications I review. While I never expect anyone else to submit PRs, I naturally gravitate toward working with projects where developers actively step in to implement fixes for the issues I report, allowing us to collaborate effectively. A significant number of developers have collaborated with me in this way, yielding a very positive outcome.
+Given my limited programming background, I prioritize simple fixes that deliver maximum big-picture benefit across the applications I review. While I never expect anyone else to submit PRs, I naturally gravitate toward projects where developers actively step in to implement fixes. Overall, the outcome has been very positive; many developers have generously spent significant time collaborating and fixing the issues I submit, and I am deeply grateful for their efforts.
 
 ## Misc
 
