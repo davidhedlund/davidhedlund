@@ -4,7 +4,9 @@ I am a Bureaucrat on the Free Software Directory. As a long-time contributor the
 
 ## Why so many issue reports?
 
-Most people likely don't read my profile before judging the volume of my reports, and it can be difficult to constantly explain why this is happening. I realize that my issue reports can sometimes flood a project's tracker. However, since I monitor a vast number of projects to help maintain ecosystem health, I simply cannot submit pull requests to virtually most of them, and literally all of the complex ones. My core expertise is in free software evaluation and categorization rather than building software or fixing bugs directly. Given my limited programming background, I prioritize simple fixes that deliver the maximum big-picture benefit across the many applications I review. While I never expect anyone else to submit PRs, I naturally gravitate toward working with projects where developers actively step in to implement fixes for the issues I report, allowing us to collaborate effectively.
+I recognize that the volume of my issue reports can sometimes seem overwhelming on a project's tracker. Because I monitor a vast number of projects to help maintain libre ecosystem health, I am, unfortunately, unable to submit pull requests for the vast majority of them, particularly for complex code changes. 
+
+My core expertise is in free software evaluation and categorization rather than building software, fixing bugs directly, or submitting code, focusing instead on contributing content to trackers like bug reports and feature requests, occasionally providing project documentation, and ensuring software is distributed across various high-traffic lists. Given my limited programming background, I prioritize simple fixes that deliver the maximum big-picture benefit across the many applications I review. While I never expect anyone else to submit PRs, I naturally gravitate toward working with projects where developers actively step in to implement fixes for the issues I report, allowing us to collaborate effectively.
 
 ## Misc
 
