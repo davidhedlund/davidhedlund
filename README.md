@@ -2,6 +2,12 @@
 
 As a contributor to the Free Software Directory since 2015 with [13,000+ edits](https://directory.fsf.org/wiki/Special:Contributions/David_Hedlund), my focus is on the health of the libre ecosystem. Since 2014, this dedication has driven me to audit various upstream projects and submit [1,200+ GitHub issues](https://github.com/issues/created?q=is%3Aissue%20author%3Adavidhedlund%20sort%3Aupdated-desc) across various software. These issues are primarily focused on licensing clarity, legal compliance, bug reporting, and UX design—including improved GUI and CLI-first automation. This practice ensures software can be fully configured, managed, and audited exclusively through non-interactive command-line interfaces utilizing arguments and flags, enabling complete system reproducibility, especially for mandatory installation steps.
 
+## Why so many issue reports?
+
+Most people likely don't read my profile before judging the volume of my reports, and it can be difficult to constantly explain why this is happening. I realize that my issue reports can sometimes flood a project's tracker. However, since I monitor a vast number of projects to help maintain ecosystem health, I simply cannot submit pull requests to virtually most of them, and literally all of the complex ones. Given my limited programming background, I prioritize simple fixes that deliver the maximum big-picture benefit across the many applications I review. While I never expect anyone else to submit PRs, I naturally gravitate toward working with projects where developers actively step in to implement fixes for the issues I report, allowing us to collaborate effectively.
+
+## Misc
+
 * 🔭 **I’m currently working on:** Scaling up FSD automation, expanding directory curation, and continuing upstream license compliance audits.
 * 📜 **Core Philosophy:** Strictly focused on the health, transparency, and copyleft integrity of the free software ecosystem.
 * 🛠️ **Technical Focus & Interests:**
